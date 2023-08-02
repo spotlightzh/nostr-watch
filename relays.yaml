@@ -98,9 +98,6 @@ relays:
 - wss://nostr.app.runonflux.io
 - wss://nostr.argdx.net
 - wss://nostr.arguflow.gg
-- wss://nostr.barf.bz
-- wss://nostr.bch.ninja
-- wss://nostr.beta3.dev
 - wss://nostr.bingtech.tk
 - wss://nostr.bitcoin-21.org
 - wss://nostr.bitcoin-basel.ch
